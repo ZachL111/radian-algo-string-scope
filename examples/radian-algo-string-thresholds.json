@@ -1,0 +1,17 @@
+{
+  "repo": "radian-algo-string-scope",
+  "thresholds": {
+    "signal": 3,
+    "slack": 2,
+    "confidence": 1,
+    "drag": 5,
+    "ship": 179,
+    "watch": 96
+  },
+  "terms": [
+    "input width",
+    "search depth",
+    "boundary pressure",
+    "complexity"
+  ]
+}
